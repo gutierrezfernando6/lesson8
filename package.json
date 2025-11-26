@@ -1,6 +1,6 @@
 {
   "name": "gutierrezfernando6/lesson8",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "demo application for the Github Actions Workshop",
   "main": "/src/appOperations.js",
   "files": [
