@@ -1,8 +1,11 @@
 {
-  "name": "lesson8",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "gutierrezfernando6/lesson8",
+  "version": "1.1.0",
+  "description": "demo application for the Github Actions Workshop",
+  "main": "/src/appOperations.js",
+  "files": [
+     "/src"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/gutierrezfernando6/lesson8"
